@@ -1,6 +1,6 @@
 # Playwright
 
-This the begining of my exploration in Playwright acceptance testing. 
+This is the beginning of my exploration in Playwright acceptance testing
 
 # Who do I talk to about this repository?
 
